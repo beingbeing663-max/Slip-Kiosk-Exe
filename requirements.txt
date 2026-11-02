@@ -1,0 +1,7 @@
+pyzk
+pandas
+openpyxl
+pywin32
+pyinstaller
+pystray
+pillow
